@@ -1,0 +1,7 @@
+{
+  "name": "CCRAS Manuscript Workflow Management",
+  "description": "A comprehensive portal for managing the drafting, review, plagiarism check, and administrative approval of scientific manuscripts for CCRAS.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
